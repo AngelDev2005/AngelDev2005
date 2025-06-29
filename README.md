@@ -11,8 +11,12 @@
 
 <p>Base de Datos: </p>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 <p>Diseño Gráfico: </p>
 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev)
+
+<h2>CONTACTAME</h2>
+📞 Telefono: +51 996115891
+📧 Correo: rosaleslaraangel@gmail.com

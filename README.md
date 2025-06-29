@@ -4,5 +4,6 @@
 👨‍🎓Estudiante de Ingenieria de Sistemas
 
 <h2>Tecnologias</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,ps,ai)](https://skillicons.dev)
 
